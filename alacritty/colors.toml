@@ -1,24 +1,25 @@
 ## Colors configuration
 [colors.primary]
 background = "#000000"
-foreground = "#ffffff"
+foreground = "#c0c0c0"
 
 [colors.normal]
 black   = "#000000"
-red     = "#ffffff"
-green   = "#ffffff"
-yellow  = "#ffffff"
-blue    = "#ffffff"
-magenta = "#ffffff"
-cyan    = "#ffffff"
-white   = "#ffffff"
+red     = "#202020"
+green   = "#404040"
+yellow  = "#606060"
+blue    = "#808080"
+magenta = "#a0a0a0"
+cyan    = "#c0c0c0"
+white   = "#e0e0e0"
 
 [colors.bright]
-black   = "#000000"
-red     = "#ffffff"
-green   = "#ffffff"
-yellow  = "#ffffff"
-blue    = "#ffffff"
-magenta = "#ffffff"
-cyan    = "#ffffff"
+black   = "#202020"
+red     = "#404040"
+green   = "#606060"
+yellow  = "#808080"
+blue    = "#a0a0a0"
+magenta = "#c0c0c0"
+cyan    = "#e0e0e0"
 white   = "#ffffff"
+
